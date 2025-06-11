@@ -1,0 +1,19 @@
+p{
+
+    color: gray;
+    font-family: Roboto, Arial;
+    font-size: smaller;
+    margin: 1px;
+    width: 250px;
+    
+}
+
+body{
+    margin: 0px;
+    padding-top: 65px;
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+}
